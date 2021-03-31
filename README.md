@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sai
 - 👀 I’m interested in Digital Forensics
 - 🌱 I’m currently learning DFIR
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me neigant1274@gmail.com
 
 <!---
