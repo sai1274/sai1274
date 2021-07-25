@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sai
+- 👋 Hi, I’m Sai Sampath
 - 👀 I’m interested in Digital Forensics
 - 🌱 I’m currently learning DFIR
 - 📫 How to reach me neigant1274@gmail.com
